@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/nadchern/github-stats-transparent/output/generated/languages.svg)
+
 <!--
 **NadChern/NadChern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
